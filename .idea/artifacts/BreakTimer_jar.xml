@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BreakTimer:jar">
+    <output-path>$USER_HOME$/Desktop/BreakTimer</output-path>
+    <root id="archive" name="BreakTimer.jar">
+      <element id="module-output" name="BreakTimer" />
+    </root>
+  </artifact>
+</component>
